@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import { Link } from '../components/link'
-import Logo from '../../static/logo.svg'
+import Logo from '../../static/SustainMarsHackathon.svg'
 
 import classes from '../styles/index.module.sass'
 
@@ -19,10 +19,10 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> INSERT CATCHY TAG LINE HERE </h1>
+                <h1 className={classes.subtitle}> ARE YOU READY TO HACK? </h1>
                 <div className={classes.introduction}>
                 <p>
-                    This is a good place to write what your course is about!  Dinosaurs? Neural Networks? LSTM? How to do taxes and not get bored? Write it here!   
+                Thanks for joining us Grades 9-12 Canadian students and teachers! This mini-course will help you prepare for the upcoming Callysto hackathon. It's as easy as 3-2-1 <span role="img" aria-label="rocket">🚀</span>   
                 </p>
                 </div>
             </section>

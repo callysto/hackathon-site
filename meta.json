@@ -1,15 +1,15 @@
 {
-    "courseId": "course-starter-python",
-    "title": "My cool online course",
+    "courseId": "callysto-hackathon-course",
+    "title": "Hackathon Course",
     "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-python.netlify.com",
-    "twitter": "spacy_io",
+    "description": "Here are some resources to help you participate in an upcoming Callysto hackathon. Callysto is a free, online learning tool that helps students and teachers learn and apply in-demand data science skills including data analysis, visualization, coding, and computational thinking. The online tool’s interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.",
+    "bio": "The Callysto program is facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It is funded under the national CanCode program.",
+    "siteUrl": "https://callysto.ca",
+    "twitter": "callysto_canada",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
-        "repo": "ines/course-starter-python",
+        "repo": "callysto/hackathon-site",
         "branch": "binder",
         "lang": "python",
         "kernelType": "python3",
@@ -17,8 +17,8 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
+        { "text": "Website", "url": "https://callysto.ca" },
+        { "text": "Source", "url": "https://github.com/callysto/hackathon-site" },
         { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
     ],
     "theme": "#de7878"
