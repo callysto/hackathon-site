@@ -28,7 +28,7 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge template: [Curiosity Guided Notebook](https://github.com/callysto/hackathon/blob/sustainable-society/SustainabilityOnMars/GuidedNotebooks/pets-in-space/pets-in-space.ipynb)
+1. Click on your challenge template: [Curiosity Guided Notebook]().
 2. Carefully read and follow the instructions in the notebook.
 3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
 
