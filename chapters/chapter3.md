@@ -55,7 +55,7 @@ You can also drop in virtually to one of our open office hours for support durin
 ### OFFICE HOURS  
 
 Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Thursday [VIRTUAL OFFICE HOUR]((https://us02web.zoom.us/j/84485917001)) 12:00pm - 1:00pm MDT
+Thursday [VIRTUAL OFFICE HOUR](https://us02web.zoom.us/j/84485917001) 12:00pm - 1:00pm MDT
 
 Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
 Friday [VIRTUAL OFFICE HOUR](https://us02web.zoom.us/j/89494533625) 12:00pm - 1:00pm MDT
