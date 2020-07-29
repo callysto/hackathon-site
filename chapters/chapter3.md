@@ -21,7 +21,7 @@ Check back regularly as we'll update this FAQ as questions come in.
 
 **Question: How do I submit my completed challenge notebook(s)?**
 
-For your challenge notebook(s) follow these steps to submit them to us for judging. If you are working in a group only one group member should submit but make sure all of your group members name's are included in your notebook(s).
+For your challenge notebook(s) follow these steps to submit them to us for judging. If you are working in a group only one group member should submit but make sure all of your group members' names are included in your notebook(s).
 - File -> Download as -> Notebook (.ipynb)
 - Attach the notebook file(s) to your email and send it to 
     - To: `hackathon@callysto.ca`

@@ -29,9 +29,9 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge template: **[Curiosity Guided Notebook]()**.
+1. Click on your challenge template: **Curiosity (COMING SOON)**.
 2. Carefully read and follow the instructions in the notebook.
-3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
+3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
 
 </exercise>
 
@@ -41,11 +41,11 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge **[TEMPLATE]()**. 
+1. Click on your challenge template: **Amal (COMING SOON)**. 
 2. Carefully read the instructions, and modify the text and code in this notebook to answer questions on how humans can sustainably build a new home on Mars. Feel free to come up with answers to your own questions!
 3. To find and access open data sources for your submission, try these tutorials and accompanying videos. 
-4. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
-5. Have a look at this **[EXAMPLE HACKATHON SUBMISSION]()** to get an idea of what your final hackathon submission should look like.
+4. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
+5. Have a look at this **EXAMPLE HACKATHON SUBMISSION (COMING SOON)** to get an idea of what your final hackathon submission should look like.
  
 
 
