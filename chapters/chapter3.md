@@ -1,7 +1,7 @@
 ---
 title: '3. FAQ & Hackathon Help'
 description:
-  'This section will provide you with information on how to get help during a Callysto hackathon.'
+  'This section will provide you information on how to get help during the hackathon.'
 prev: /chapter2
 next: /chapter4
 type: chapter
@@ -17,6 +17,7 @@ Check back regularly as we'll update this FAQ as questions come in.
 * August 5 (Launch Event) - Work through some tutorials then begin work on your hackathon challenge (individual or group).
 * August 6-10 - Work on your hackathon challenge.
 * August 10 - Submit your hackathon challenge by 2pm MDT.
+* August 12 - We will contact the winning hackathon participants by email.
 
 **Question: How do I submit my completed challenge notebook(s)?**
 
@@ -36,7 +37,7 @@ A common scenario when programming is having errors come up when running your co
 
 **Question: Where can I find some Python and markdown help?**
 
-Google will be your friend here including Stack Overflow. We also have [Python and markdown](https://callysto.ca/wp-content/uploads/2020/05/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
+Googling your questions as well as looking at [Stack Overflow](https://stackoverflow.com/) (a website where you can ask questions about programming) will help. We also have [Python and markdown](https://callysto.ca/wp-content/uploads/2020/05/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
 
 **Question: How will my hackathon submission be evaluated?**
 
@@ -46,19 +47,25 @@ Your hackathon submission will be evaluated using the following rubric by our ex
 
 </exercise>
 
-<exercise id="2" title="Get Help">
+<exercise id="2" title="Get help">
 
-For all hackathon related inquiries (technical or non-technical) and to book a virtual office hour appointment with one of our instructors, please fill out this form. (ADD HYPERLINK)
+For all hackathon related inquiries (technical and non-technical) please fill out this **[FORM](https://docs.google.com/forms/d/e/1FAIpQLSe2jL5fwKjXFTGyno3iRpdOXLDde5VxXwgNlWR7UH2CZyZbqQ/viewform)**.
 
-You can also drop in virtually to one of our open office hours for support during specified times (see below). 
+You can also connect with us during our open office hours for support during specified times (see below).
 
-### OFFICE HOURS  
+### Virtual drop-in hours
+When you click the hyperlinked content below, you’ll be transferred to our Zoom webinar platform. One of our Callysto experts will be there to help answer your questions, during the day and time noted below.  
+* Thursday, August 6, 2020: 12pm-1pm Mountain Daylight Time (MDT) [Zoom link](https://us02web.zoom.us/j/84485917001)
+* Friday, August 7, 2020: 12pm-1pm MDT [Zoom link](https://us02web.zoom.us/j/89494533625)
 
+
+
+### Email office hours 
+
+Email us at `hackathon@callysto.ca` during the hours listed below and one of our experts will get back to you.
+```
 Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Thursday [VIRTUAL OFFICE HOUR](https://us02web.zoom.us/j/84485917001) 12:00pm - 1:00pm MDT
-
 Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Friday [VIRTUAL OFFICE HOUR](https://us02web.zoom.us/j/89494533625) 12:00pm - 1:00pm MDT
-
-Monday August 10, 2020, 9:00am-12:00pm MDT
-
+Monday August 10, 2020, 9:00am - 12:00pm MDT
+```
+</exercise>

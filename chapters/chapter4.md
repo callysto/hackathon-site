@@ -1,7 +1,7 @@
 ---
 title: '4. Hackathon Day (COMING SOON)'
 description:
-  'This section will provide you with all the information you need to know to participate in a Callysto hackathon.'
+  'The day before the hackathon, this section will include the links to the hackathon challenges.'
 prev: /chapter3
 next: /chapter1
 type: chapter
@@ -12,11 +12,12 @@ id: 4
 
 Start here as these tutorials will provide you with the foundational programming skills to complete your challenge. 
 
-Clicking the following links will launch you into our CallystoHub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
+Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
-1. (Everyone) [Intro to Python and Data Frames](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/python-and-pandas-basics-solutions.ipynb&depth=1).
-2. (Advanced) Intro to Data Visualization: [Cufflinks](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/cufflinks-basics.ipynb&depth=1).
-3. (Advanced) [Intro to Python Data Structures](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/data-structures-in-python.ipynb&depth=1).
+1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
+2. (Everyone) [Intro to Python and Data Frames](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/python-and-pandas-basics-solutions.ipynb&depth=1).
+3. (Advanced) Intro to Data Visualization: [Cufflinks](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/cufflinks-basics.ipynb&depth=1).
+4. (Advanced) [Intro to Python Data Structures](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/data-structures-in-python.ipynb&depth=1).
 
 
 
@@ -28,7 +29,7 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge template: [Curiosity Guided Notebook]().
+1. Click on your challenge template: **[Curiosity Guided Notebook]()**.
 2. Carefully read and follow the instructions in the notebook.
 3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](http://0.0.0.0:8000/chapter3) for details on submitting.
 

@@ -2,7 +2,7 @@
 type: slides
 ---
 
-# Using Data Science to Settle an Argument
+# Using data science to settle an argument
 
 Notes: Hi! Follow along in our hypothetical data science example to get a better understanding of how you can use open data and data science in your everyday.
 
@@ -12,7 +12,7 @@ Notes: Hi! Follow along in our hypothetical data science example to get a better
 
 Hello. 
 
-We need your help to settle an argument. One of the Grade 3 teachers insists that June has nicer weather than August, so we should change the school calendar to have time off in June and go back in August.
+We need your help to settle an argument. A teacher insists that June has nicer weather than August, so we should change the school calendar so we have June off and start the school year in August. Another teacher says we should keep the school calendar the same.
 
 Can you use data science to solve this argument?
 
@@ -24,7 +24,7 @@ Notes: Remember, this is a hypothetical scenario :)
 
 ---
 
-# Find Weather Data
+# Find weather data
 
 The first thing we need to do to solve this argument is to find some weather data. We'll use data from **Edmonton, Alberta**, in this case because that's where the teacher is from. We'll also show you how you can get weather data from other places in Canada, or the world.
 
@@ -34,4 +34,4 @@ We can use an online data science platform called Jupyter notebooks to run code,
 
 ---
 
-# Let's Data Science!
+# Let's do some data science!
