@@ -15,9 +15,9 @@ Start here as these tutorials will provide you with the foundational programming
 Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
 1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
-2. (Everyone) [Intro to Python and Data Frames](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/python-and-pandas-basics-solutions.ipynb&depth=1).
-3. (Advanced) Intro to Data Visualization: [Cufflinks](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/cufflinks-basics.ipynb&depth=1).
-4. (Advanced) [Intro to Python Data Structures](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=sustainable-society&subPath=PrepMaterials/data-structures-in-python.ipynb&depth=1).
+2. (Everyone) Intro to Python and Data Frames (COMING SOON).
+3. (Advanced) Intro to Data Visualization: Cufflinks (COMING SOON).
+4. (Advanced) Intro to Python Data Structures (COMING SOON).
 
 
 
