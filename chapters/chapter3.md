@@ -45,6 +45,10 @@ Your hackathon submission will be evaluated using the following rubric by our ex
 
 <img src="/sustaining-mars-callysto-hackathon-rubric.svg" alt="hackathon evaluation rubric">
 
+**Question: How do I use a crying emoji?**
+
+Use the cry emoji. And then cry.
+
 </exercise>
 
 <exercise id="2" title="Get help">
