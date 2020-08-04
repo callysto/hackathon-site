@@ -1,7 +1,7 @@
 ---
-title: '4. Hackathon Day (COMING SOON)'
+title: '4. Hackathon Day'
 description:
-  'The day before the hackathon, this section will include the links to the hackathon challenges.'
+  'Information and links to tutorials and the hackathon challenges.'
 prev: /chapter3
 next: /chapter1
 type: chapter
@@ -15,9 +15,9 @@ Start here as these tutorials will provide you with the foundational programming
 Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
 1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
-2. (Everyone) Intro to Python and Data Frames (COMING SOON).
-3. (Advanced) Intro to Data Visualization: Cufflinks (COMING SOON).
-4. (Advanced) Intro to Python Data Structures (COMING SOON).
+2. (Everyone) Intro to Python and Data Frames - [notebook](http://tinyurl.com/yamdly5o) and [video](https://www.youtube.com/watch?v=bJT72nq5Rf0&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=2).
+3. (Advanced) Intro to Python Data Structures - [notebook](http://tinyurl.com/yc8nzrbt) and [video](https://www.youtube.com/watch?v=cYwVqiVvTLw&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=3).
+4. (Advanced) Intro to Data Visualization: Cufflinks - [notebook](http://tinyurl.com/ybrwsjvc) and [video](https://www.youtube.com/watch?v=dg1EWj-lgeE&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=4).
 
 
 
@@ -29,9 +29,9 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge template: **Curiosity (COMING SOON)**.
-2. Carefully read and follow the instructions in the notebook.
-3. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
+1. Click on your Curiosity challenge **[TEMPLATE](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/CuriosityTrack/challenge-0.ipynb&depth=1)**. This is the first notebook in a series of 7 notebooks. When you complete a notebook, there's a link at the bottom that takes you to the next more challenging notebook. 
+2. Carefully read and follow the instructions in each notebook.
+3. Download and submit your completed challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
 
 </exercise>
 
@@ -41,11 +41,13 @@ Remember those assessment exercises you did before the hackathon on Python and D
 
 Instructions:
 
-1. Click on your challenge template: **Amal (COMING SOON)**. 
+1. Click on your Amal challenge **[TEMPLATE](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/AmalTrack/ChallengeTemplate/challenge-template.ipynb&depth=1)**. 
 2. Carefully read the instructions, and modify the text and code in this notebook to answer questions on how humans can sustainably build a new home on Mars. Feel free to come up with answers to your own questions!
-3. To find and access open data sources for your submission, try these tutorials and accompanying videos. 
-4. Submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
-5. Have a look at this **EXAMPLE HACKATHON SUBMISSION (COMING SOON)** to get an idea of what your final hackathon submission should look like.
+3. Get inspired! Have a look at these example hackathon submissions - **[Spotify music](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/AmalTrack/ChallengeExamples/music-example.ipynb&depth=1)** and **[plastics](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/AmalTrack/ChallengeExamples/plastic-example.ipynb&depth=1)**. These examples will give you an idea of what your final hackathon submission should look like.
+4. Follow this overview of accessing open data in Python to understand how you can access open data sources for your submission -- [notebook](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/Tutorials/accessing-open-data.ipynb&depth=1) and [video](https://youtu.be/ypYKfcOQPDA?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=41). 
+5. Get inspired! Review these accessing open data examples to identify potential data sources for your hackathon submission. You can use these open datasets or find your own: Statistics Canada ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/MWbkdsVPSls?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=21)); NASA ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/gbcwDtWBB48?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=18)); and Climate, fruit trees, Gapminder (socioeconomic), Google N-grams and trends ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/dyTfZNdv8MA?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=13)).
+6. Download and submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
+
  
 
 
