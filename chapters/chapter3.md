@@ -56,9 +56,9 @@ Check out this [gif](https://i.imgur.com/WmBwqFD.mp4) to help you troubleshoot.
 
 If your code cell is running, an asterik `[*]` should appear to the left of the cell and the circle beside `Python 3` in the top right corner of your notebook should be filled. To get your code cell working again, make sure your code cell is selected, then click on the stop (⏹) icon in the tool bar. The filled circle in the top right beside `Python 3` will become an open circle. Next, you'll need to click on the `Run` icon from the toolbar (or `shift+enter` or `control+enter`) to run the code cell again. 
 
-**Question: Do we need to complete all of the notebooks for the Amal track?
+**Question: Do we need to answer all six questions in the Amal challenge template?**
 
-No, you don't need to complete all of the challenge notebooks in the Amal track. Just complete as many as you can.
+No, you don't need to complete all of the questions in the Amal challenge template. Just complete as many as you can or come up with your own questions to answer.
 
 
 </exercise>
