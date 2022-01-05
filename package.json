@@ -51,7 +51,7 @@
     },
     "devDependencies": {
         "browser-monads": "^1.0.0",
-        "electron": "^9.1.1",
+        "electron": "^16.0.6",
         "electron-builder": "^20.40.2",
         "prettier": "^1.16.4"
     },
