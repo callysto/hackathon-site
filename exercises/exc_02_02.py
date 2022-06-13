@@ -1,9 +1,8 @@
 import pandas as pd #importing the pandas library
-url = 'https://climateknowledgeportal.worldbank.org/api/data/get-download-data/historical/tas/1901-2016/53.544388$cckp$-113.490929/53.544388$cckp$-113.490929'
+url = 'https://raw.githubusercontent.com/callysto/data-files/main/Science/Climatograph/world-bank-climate-data-canada.csv'
 weather = pd.read_csv(url) #the data from the url is read into the weather variable
 
-june = weather[weather[' Statistics']==' Jun Average'] #filter data for June temperatures and assign to june variable
-print("June",june.mean()) #calculate and print the average temperature value for June
+temperature = weather[weather["Type"] == "temperature"] #filter data for temperatures and assign to temperature variable
 
-august = weather[weather[' Statistics']==' Aug Average'] #filter data for August temperatures and assign to august variable
-print("August",august.mean()) #calculate and print the average temperature value for August
+print("June",temperature["Jun"].mean()) #calculate and print the average temperature value for June
+print("August",temperature["Aug"].mean()) #calculate and print the average temperature value for August
