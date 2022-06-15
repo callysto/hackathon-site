@@ -25,7 +25,7 @@ We're using a code "library" to help us do this. Libraries make programming easi
 
 </codeblock>
 
-**Hint**: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[1392 rows x 5 columns]` in size.
+**Hint**: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[112 rows x 16 columns]` in size.
 
 **Hint**: want to learn more about [variables](https://www.tutorialspoint.com/python/python_variable_types.htm)?
 
