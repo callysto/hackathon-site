@@ -43,7 +43,7 @@ Can we solve the argument now?
 
 **Hint**: Press the `Run Code` button.
 
-*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "Ontario". Who wins?
+*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "ON". Who wins?
 
 </exercise>
 
@@ -59,7 +59,7 @@ Good point, we should probably look at precipitation using the following code. D
 
 **Hint**: Press the `Run Code` button.
 
-*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "Ontario". Who wins?
+*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "ON". Who wins?
 
 </exercise>
 
