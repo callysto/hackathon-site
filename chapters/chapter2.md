@@ -17,7 +17,7 @@ id: 2
 
 <exercise id="2" title="Let's wrangle weather data!">
 
-Below is the code to get weather data from Alberta from 1901 to 2016. If we want to investigate different provinces/territories, refer to the `list of all territories`. 
+Below is the code to get weather data for Canada from 1901 to 2020. We will investigate different provinces/territories by filtering by abbreviated province/territory names. 
 
 We're using a code "library" to help us do this. Libraries make programming easier by importing code other people have written. Learn more at [About Python](https://www.python.org/about).
 
@@ -25,7 +25,7 @@ We're using a code "library" to help us do this. Libraries make programming easi
 
 </codeblock>
 
-**Hint**: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[112 rows x 16 columns]` in size.
+**Hint**: Press the `Run Code` button. Be patient, once it loads you should see a data table that is `[112 rows x 17 columns]` in size.
 
 **Hint**: want to learn more about [variables](https://www.tutorialspoint.com/python/python_variable_types.htm)?
 
@@ -43,7 +43,7 @@ Can we solve the argument now?
 
 **Hint**: Press the `Run Code` button.
 
-*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "ON". Who wins?
+*Challenge*: Try modifying the code to the Ontario by filtering the `Abbreviated` as "ON". Who wins?
 
 </exercise>
 
@@ -59,7 +59,7 @@ Good point, we should probably look at precipitation using the following code. D
 
 **Hint**: Press the `Run Code` button.
 
-*Challenge*: Try modifying the code to the Ontario by filtering the `Location` as "ON". Who wins?
+*Challenge*: Try modifying the code to the Ontario by filtering the `Abbreviated` as "ON". Who wins?
 
 </exercise>
 
