@@ -12,9 +12,6 @@ id: 3
 
 Check back regularly as we'll update this FAQ as questions come in.
 
-
-<img src="/download-notebook.png" alt="download notebook">  
-
 <br />
 <br />
 
@@ -26,6 +23,10 @@ A common scenario when programming is having errors come up when running your co
 **Question: Where can I find some Python and markdown help?**
 
 Googling your questions as well as looking at [Stack Overflow](https://stackoverflow.com/) (a website where you can ask questions about programming) will help. We also have [Python and markdown](https://callysto.ca/wp-content/uploads/2020/05/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
+    
+**Question: How will my hackathon submission be evaluated?**
+
+Your hackathon submission will be evaluated using the following rubric by our expert panel of judges.
 
 
 <img src="/sustaining-mars-callysto-hackathon-rubric.svg" alt="hackathon evaluation rubric">  
@@ -48,11 +49,7 @@ If your code cell is running, an asterik `[*]` should appear to the left of the 
 
 ### Email Support
 
-mail us at hackathon@callysto.ca during regular school hours if you have any questions.
+Email us at hackathon@callysto.ca during regular school hours if you have any questions.
 
-```
-Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Monday August 10, 2020, 9:00am - 12:00pm MDT
-```
+
 </exercise>
