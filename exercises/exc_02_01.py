@@ -1,4 +1,4 @@
 import pandas as pd #importing the pandas library
-url = 'https://climateknowledgeportal.worldbank.org/api/data/get-download-data/historical/tas/1901-2016/53.544388$cckp$-113.490929/53.544388$cckp$-113.490929'
+url = 'https://raw.githubusercontent.com/callysto/data-files/main/Science/Climatograph/world-bank-climate-data-canada-abbreviated.csv'
 weather = pd.read_csv(url) #the data from the url is read into the weather variable
 print(weather)

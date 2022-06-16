@@ -1,9 +1,13 @@
 import pandas as pd #importing the pandas library
-url = 'https://climateknowledgeportal.worldbank.org/api/data/get-download-data/historical/tas/1901-2016/53.544388$cckp$-113.490929/53.544388$cckp$-113.490929'
+url = 'https://raw.githubusercontent.com/callysto/data-files/main/Science/Climatograph/world-bank-climate-data-canada-abbreviated.csv'
 weather = pd.read_csv(url) #the data from the url is read into the weather variable
 
-june = weather[weather[' Statistics']==' Jun Average'] #filter data for June temperatures and assign to june variable
-print("June",june.mean()) #calculate and print the average temperature value for June
+print(weather["Abbreviated"].unique()) #List of all territories that we can look into
 
-august = weather[weather[' Statistics']==' Aug Average'] #filter data for August temperatures and assign to august variable
-print("August",august.mean()) #calculate and print the average temperature value for August
+temperature = weather[weather["Type"] == "temperature"] #filter data for temperatures and assign to temperature variable
+
+province = temperature.loc[temperature["Abbreviated"] == "AB"] #filter Alberta as the region of focus
+
+print("June",province["Jun"].median(), "°C") #calculate and print the average temperature value for June
+
+print("August",province["Aug"].median(), "°C") #calculate and print the average temperature value for August
