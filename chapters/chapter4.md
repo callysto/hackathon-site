@@ -31,7 +31,6 @@ Instructions:
 
 1. Click on your Curiosity challenge **[TEMPLATE](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/CuriosityTrack/challenge-0.ipynb&depth=1)**. This is the first notebook in a series of 7 notebooks. When you complete a notebook, there's a link at the bottom that takes you to the next more challenging notebook. 
 2. Carefully read and follow the instructions in each notebook.
-3. Download and submit your completed challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
 
 </exercise>
 
@@ -46,7 +45,6 @@ Instructions:
 3. Get inspired! Have a look at these example hackathon submissions - **[Spotify music](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/AmalTrack/ChallengeExamples/music-example.ipynb&depth=1)** and **[plastics](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/AmalTrack/ChallengeExamples/plastic-example.ipynb&depth=1)**. These examples will give you an idea of what your final hackathon submission should look like.
 4. Follow this overview of accessing open data in Python to understand how you can access open data sources for your submission -- [notebook](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/Tutorials/accessing-open-data.ipynb&depth=1) and [video](https://youtu.be/ypYKfcOQPDA?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=41). 
 5. Get inspired! Review these accessing open data examples to identify potential data sources for your hackathon submission. You can use these open datasets or find your own: Statistics Canada ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/MWbkdsVPSls?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=21)); NASA ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/gbcwDtWBB48?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=18)); and Climate, fruit trees, Gapminder (socioeconomic), Google N-grams and trends ([notebooks](http://tinyurl.com/y84e5hvh) and [video](https://youtu.be/dyTfZNdv8MA?list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&t=13)).
-6. Download and submit your challenge notebooks by 2:00pm MDT on August 10, 2020. See the [FAQ](https://callysto-hackathon.netlify.app/chapter3) for details on submitting.
 
  
 

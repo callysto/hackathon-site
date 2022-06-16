@@ -26,9 +26,9 @@ Notes: Remember, this is a hypothetical scenario :)
 
 # Find weather data
 
-The first thing we need to do to solve this argument is to find some weather data. We'll use data from **Edmonton, Alberta**, in this case because that's where the teacher is from. We'll also show you how you can get weather data from other places in Canada, or the world.
+The first thing we need to do to solve this argument is to find some weather data. We'll use data from **Alberta**, in this case because that's where the teacher is from. We'll also show you how you can get weather data from other places in Canada, or the world.
 
-Historical weather data sets are available from the [Canadian Centre for Climate Services](https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services.html).
+Historical weather data sets are available from the [World Bank's Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/download-data).
 
 We can use an online data science platform called Jupyter notebooks to run code, create visualizations, and write about what we find. To log in to a free server that runs Jupyter notebooks, all you need in order to access it is a Google or Microsoft account. (We'll do this during the hackathon.)
 

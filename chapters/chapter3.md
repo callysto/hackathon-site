@@ -12,23 +12,6 @@ id: 3
 
 Check back regularly as we'll update this FAQ as questions come in.
 
-**Question: How will this Hackathon run?**
-
-* August 5 (Launch Event) - Work through some tutorials then begin work on your hackathon challenge (individual or group).
-* August 6-10 - Work on your hackathon challenge.
-* August 10 - Submit your hackathon challenge by 2pm MDT.
-* August 12 - We will contact the winning hackathon participants by email.
-
-**Question: How do I submit my completed challenge notebook(s)?**
-
-For your challenge notebook(s) follow these steps to submit them to us for judging. If you are working in a group only one group member should submit but make sure all of your group members' names are included in your notebook(s).
-- File -> Download as -> Notebook (.ipynb)
-- Attach the notebook file(s) to your email and send it to 
-    - To: `hackathon@callysto.ca`
-    - Subject: Callysto Hackathon
-
-<img src="/download-notebook.png" alt="download notebook">  
-
 <br />
 <br />
 
@@ -40,10 +23,11 @@ A common scenario when programming is having errors come up when running your co
 **Question: Where can I find some Python and markdown help?**
 
 Googling your questions as well as looking at [Stack Overflow](https://stackoverflow.com/) (a website where you can ask questions about programming) will help. We also have [Python and markdown](https://callysto.ca/wp-content/uploads/2020/05/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
-
+    
 **Question: How will my hackathon submission be evaluated?**
 
-Your hackathon submission will be evaluated using the following rubric by our expert panel of judges. Top submissions will be awarded prizes.
+Your hackathon submission will be evaluated using the following rubric by our expert panel of judges.
+
 
 <img src="/sustaining-mars-callysto-hackathon-rubric.svg" alt="hackathon evaluation rubric">  
 
@@ -62,23 +46,10 @@ If your code cell is running, an asterik `[*]` should appear to the left of the 
 
 <exercise id="2" title="Get help">
 
-For all hackathon related inquiries (technical and non-technical) please fill out this **[FORM](https://docs.google.com/forms/d/e/1FAIpQLSe2jL5fwKjXFTGyno3iRpdOXLDde5VxXwgNlWR7UH2CZyZbqQ/viewform)**.
 
-You can also connect with us during our open office hours for support during specified times (see below).
+### Email Support
 
-### Virtual drop-in hours
-When you click the hyperlinked content below, you’ll be transferred to our Zoom webinar platform. One of our Callysto experts will be there to help answer your questions, during the day and time noted below.  
-* Thursday, August 6, 2020: 12pm-1pm Mountain Daylight Time (MDT) [Zoom link](https://us02web.zoom.us/j/84485917001)
-* Friday, August 7, 2020: 12pm-1pm MDT [Zoom link](https://us02web.zoom.us/j/89494533625)
+Email us at hackathon@callysto.ca during regular school hours if you have any questions.
 
 
-
-### Email office hours 
-
-Email us at `hackathon@callysto.ca` during the hours listed below and one of our experts will get back to you.
-```
-Thursday August 6, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Friday August 7, 2020, 9:00am - 12:00pm, 1:00pm - 5:00pm MDT  
-Monday August 10, 2020, 9:00am - 12:00pm MDT
-```
 </exercise>
