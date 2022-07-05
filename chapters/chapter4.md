@@ -1,5 +1,5 @@
 ---
-title: '4. Hackathon Day'
+title: '4. Hackathon'
 description:
   'Information and links to tutorials and the hackathon challenges.'
 prev: /chapter3
@@ -12,12 +12,12 @@ id: 4
 
 Start here as these tutorials will provide you with the foundational programming skills to complete your challenge. 
 
-Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school. If not, you can create one for free at [Google SignUp](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
+Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school, or you can create one for free at [Google Signup](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
 1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
 2. (Everyone) Intro to Python and Data Frames - [notebook](http://tinyurl.com/yamdly5o) and [video](https://www.youtube.com/watch?v=bJT72nq5Rf0&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=2).
 3. (Advanced) Intro to Python Data Structures - [notebook](http://tinyurl.com/yc8nzrbt) and [video](https://www.youtube.com/watch?v=cYwVqiVvTLw&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=3).
-4. (Advanced) Intro to Data Visualization: Cufflinks - [notebook](http://tinyurl.com/ybrwsjvc) and [video](https://www.youtube.com/watch?v=dg1EWj-lgeE&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=4).
+4. (Advanced) Intro to Data Visualization - [notebook](http://tinyurl.com/ybrwsjvc) and [video](https://www.youtube.com/watch?v=dg1EWj-lgeE&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=4).
 
 
 
