@@ -2,7 +2,7 @@
 <img src="static/SustainMarsHackathon.svg" align="center" width="450px"/>
 </p>
 
-# Welcome to **[a Callysto Hackathon on Sustaining Mars](http://bit.ly/callystosustainingmarshackathon)**! 🚀 This course is hosted [here]().
+# Welcome to **[a Callysto Hackathon on Sustaining Mars](http://bit.ly/callystosustainingmarshackathon)**! 🚀 This course is hosted [here](https://callysto-hackathon.netlify.app).
 
 This course source repository provides [Callysto](https://callysto.ca/) hackathon participants details on:
 
