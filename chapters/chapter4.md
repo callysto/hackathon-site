@@ -15,6 +15,7 @@ Start here as these tutorials will provide you with the foundational programming
 Clicking the following links will launch you into our Callysto Hub service that requires a Gmail or Outlook account to login. You may have a Google (Gmail) or Microsoft (Live) account through your school, or you can create one for free at [Google Signup](https://accounts.google.com/SignUp) or [Microsoft Signup](https://signup.live.com/).
 
 1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
+2. (Everyone) Breaking code and breaking down the code. A big part of data science involves coding. In this activity featuring soccer data, we learn to take a closer look at Python programming code to understand what the code is doing. An even bigger part of data science is developing resilience to coding errors. In this activity we also look at common error messages that you might encounter, how to understand what they are telling us and how to fix or debug them - [notebook](https://bit.ly/3Ar45WQ) and [video](https://youtu.be/bDoaKV_lLJY).
 2. (Everyone) Intro to Python and Data Frames - [notebook](http://tinyurl.com/yamdly5o) and [video](https://www.youtube.com/watch?v=bJT72nq5Rf0&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=2).
 3. (Advanced) Intro to Python Data Structures - [notebook](http://tinyurl.com/yc8nzrbt) and [video](https://www.youtube.com/watch?v=cYwVqiVvTLw&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=3).
 4. (Advanced) Intro to Data Visualization - [notebook](http://tinyurl.com/ybrwsjvc) and [video](https://www.youtube.com/watch?v=dg1EWj-lgeE&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=4).
@@ -25,11 +26,11 @@ Clicking the following links will launch you into our Callysto Hub service that 
 
 <exercise id="2" title="Hackathon Challenge: Curiosity (Beginner)">
 
-Remember those assessment exercises you did before the hackathon on Python and Data Science? If you assessed as a Curiosity (Beginner) track participant, then click on the link below to access your challenge.
+Remember those assessment exercises you did before the hackathon on Python and Data Science? If you assessed as a Curiosity (Beginner) track participant, then click on the link below to access the Curiosity website and challenges.
 
 Instructions:
 
-1. Click on your Curiosity challenge **[TEMPLATE](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/CuriosityTrack/challenge-0.ipynb&depth=1)**. This is the first notebook in a series of 7 notebooks. When you complete a notebook, there's a link at the bottom that takes you to the next more challenging notebook. 
+1. Visit the [Curiosity website](https://callysto.github.io/curiosity-hackathon/welcome.html) and start by clicking the **Challenge 0** link. This is the first notebook in a series of 7 notebooks. When you complete a notebook, there's a link at the bottom that takes you to the next more challenging notebook. There are embedded videos in each notebook to help you.
 2. Carefully read and follow the instructions in each notebook.
 
 </exercise>
