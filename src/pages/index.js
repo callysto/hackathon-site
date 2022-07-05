@@ -19,10 +19,10 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> ARE YOU READY TO HACK DATA? </h1>
+                <h1 className={classes.subtitle}> Are You Ready to Hack Data? </h1>
                 <div className={classes.introduction}>
                 <p>
-                Thanks for joining us Grades 9-12 students and teachers! This site will help you participate in the upcoming Callysto hackathon, "Sustaining Life on Mars". It's as easy as 3-2-1 <span role="img" aria-label="rocket">🚀</span>   
+                This site will help you participate in the Callysto hackathon, "Sustaining Life on Mars". <span role="img" aria-label="rocket">🚀</span>   
                 </p>
                 </div>
             </section>
