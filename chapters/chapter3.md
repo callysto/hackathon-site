@@ -13,7 +13,16 @@ id: 3
 Check back regularly as we'll update this FAQ as questions come in.
 
 <br />
-<br />
+
+**Question: How will this Hackathon run?**
+
+* July 10 - July 31 (Suggested) - Work through some tutorials then begin work on your hackathon challenge (individual or group).
+* August 1 - August 18 (Suggested) - Complete work ony your hackathon challenge(s) and submit your work. 
+
+**Question: How do I submit my work?**
+
+Submit your work on or before 11:59 PM local time on August 18, 2022 by submitting your notebook files, a video or an essay. For full submission details see our [Hackathon Instructions document](https://docs.google.com/document/d/1rFZpDvkwXEfQZUNa7laFMIw3UfWLw-bS_yA0QAFwTgA/edit).
+
 
 **Question: How do I handle programming errors?**
 
