@@ -22,7 +22,7 @@ A common scenario when programming is having errors come up when running your co
 
 **Question: Where can I find some Python and markdown help?**
 
-Googling your questions as well as looking at [Stack Overflow](https://stackoverflow.com/) (a website where you can ask questions about programming) will help. We also have [Python and markdown](https://callysto.ca/wp-content/uploads/2020/05/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
+Googling your questions as well as looking at [Stack Overflow](https://stackoverflow.com/) (a website where you can ask questions about programming) will help. We also have [Python and markdown](https://www.callysto.ca/wp-content/uploads/2020/10/Callysto-Cheatsheet_12.19.18_web.pdf), and [pandas](https://gist.github.com/misterhay/5957ae9d2a4071a01865749c4111daf3) cheatsheets for common commands.
     
 **Question: How will my hackathon submission be evaluated?**
 
