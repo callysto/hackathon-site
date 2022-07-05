@@ -17,7 +17,7 @@ Clicking the following links will launch you into our Callysto Hub service that 
 1. (Everyone) Intro to Jupyter and Python series - start with **[part 1](http://tinyurl.com/y4aqn5hr)** or watch the **[videos](https://www.youtube.com/playlist?list=PL-j7ku2URmjZ1F3-9jvBuvsf0KcWPsxab)** to get an overview of how the Callysto Hub works.
 2. (Everyone) Intro to Python and Data Frames - [notebook](http://tinyurl.com/yamdly5o) and [video](https://www.youtube.com/watch?v=bJT72nq5Rf0&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=2).
 3. (Advanced) Intro to Python Data Structures - [notebook](http://tinyurl.com/yc8nzrbt) and [video](https://www.youtube.com/watch?v=cYwVqiVvTLw&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=3).
-4. (Advanced) Intro to Data Visualization - [notebook](http://tinyurl.com/ybrwsjvc) and [video](https://www.youtube.com/watch?v=dg1EWj-lgeE&list=PL-j7ku2URmjbXSQ8mSrqGJ3poGpUD0qaE&index=4).
+4. (Advanced) Intro to Data Visualization - [notebook](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fhackathon&branch=master&subPath=SustainabilityOnMars/Tutorials/graphing-with-plotly.ipynb&depth=1) and [video](https://youtu.be/jvDHrwOsmjg).
 
 
 
