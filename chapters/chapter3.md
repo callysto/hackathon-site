@@ -36,11 +36,9 @@ Your hackathon submission will be evaluated using the following rubric by our ex
 
 **Question: I’m working my way through the Curiosity (beginner) challenge and I run a code cell but nothing is happening, what should I do?**
 
-Check out this [gif](https://i.imgur.com/WmBwqFD.mp4) to help you troubleshoot.
-
 If your code cell is running, an asterik `[*]` should appear to the left of the cell and the circle beside `Python 3` in the top right corner of your notebook should be filled. To get your code cell working again, make sure your code cell is selected, then click on the stop (⏹) icon in the tool bar. The filled circle in the top right beside `Python 3` will become an open circle. Next, you'll need to click on the `Run` icon from the toolbar (or `shift+enter` or `control+enter`) to run the code cell again. 
 
-
+<embed src="/jupyter-cell-troublshooting.mp4" autostart="true"/></embed>
 
 </exercise>
 
@@ -49,7 +47,7 @@ If your code cell is running, an asterik `[*]` should appear to the left of the 
 
 ### Email Support
 
-Email us at hackathon@callysto.ca during regular school hours if you have any questions.
+Email us at hackathon@callysto.ca if you have any questions and we will respond during office hours.
 
 
 </exercise>
