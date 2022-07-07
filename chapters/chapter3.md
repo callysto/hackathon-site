@@ -17,7 +17,7 @@ Check back regularly as we'll update this FAQ as questions come in.
 **Question: How will this Hackathon run?**
 
 * July 10 - July 31 (Suggested) - Work through some tutorials then begin work on your hackathon challenge (individual or group).
-* August 1 - August 18 (Suggested) - Complete work ony your hackathon challenge(s) and submit your work. 
+* August 1 - August 18 (Suggested) - Complete work on your hackathon challenge(s) and submit your work. 
 
 **Question: How do I submit my work?**
 
