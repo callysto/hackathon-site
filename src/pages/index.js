@@ -25,6 +25,9 @@ export default ({ data }) => {
                 This site will help you participate in the Callysto hackathon, "Sustaining Life on Mars". <span role="img" aria-label="rocket">🚀</span>   
                 </p>
                 </div>
+                <div className={classes.video}>
+	                    <iframe src="http://www.youtube.com/embed/https://www.youtube.com/embed/K9g8qIyUMzE" frameborder="0" allowfullscreen></iframe>
+                </div>
             </section>
             
             {chapters.map(({ slug, title, description }) => (
