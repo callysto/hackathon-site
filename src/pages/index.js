@@ -26,7 +26,11 @@ export default ({ data }) => {
                 </p>
                 </div>
                 <div className={classes.video}>
-	                    <iframe src="http://www.youtube.com/embed/https://www.youtube.com/embed/K9g8qIyUMzE" frameborder="0" allowfullscreen></iframe>
+	                    <iframe 
+                            src="/https://www.youtube.com/embed/K9g8qIyUMzE"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+                            allowfullscreen></iframe>
                 </div>
             </section>
             
