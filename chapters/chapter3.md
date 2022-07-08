@@ -10,7 +10,7 @@ id: 3
 
 <exercise id="1" title="How To Guides">
 
-Watch our "How To Guides" video which covers:
+Watch our "How To Guides" video (below) which covers:
 - How to get started
 - Jupyter Notebook walkthrough
 - Accessing the Callysto Hub
