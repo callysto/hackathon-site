@@ -1,5 +1,5 @@
 ---
-title: '3. FAQ & Hackathon Help'
+title: '3. How To Guides, FAQ & Hackathon Help'
 description:
   'This section will provide you information on how to get help during the hackathon.'
 prev: /chapter2
@@ -8,11 +8,23 @@ type: chapter
 id: 3
 ---
 
-<exercise id="1" title="FAQ">
+<exercise id="1" title="How To Guides">
+
+Watch our "How To Guides" video which covers:
+- How to get started
+- Jupyter Notebook walkthrough
+- Accessing the Callysto Hub
+- How to submit a challenge
+- Evaluation criteria
+- How to get help 
+
+[![How to guides video](/how-to-guides-image-thumbnail.png)](https://www.youtube.com/watch?v=OCz3SzYhlZ0)
+
+</exercise>
+
+<exercise id="2" title="FAQ">
 
 Check back regularly as we'll update this FAQ as questions come in.
-
-<br />
 
 **Question: How will this Hackathon run?**
 
@@ -26,7 +38,7 @@ Submit your work on or before 11:59 PM local time on August 18, 2022 by submitti
 
 **Question: How do I handle programming errors?**
 
-A common scenario when programming is having errors come up when running your code. Have a look at this [video](http://www.youtube.com/watch?v=jhL78-xriOc) where Laura, a Callysto data scientist, helps you work through some common errors.
+A common scenario when programming is having errors come up when running your code. Have a look at this [video](http://www.youtube.com/watch?v=jhL78-xriOc) where a Callysto data scientist, helps you work through some common errors.
 
 
 **Question: Where can I find some Python and markdown help?**
@@ -51,12 +63,12 @@ If your code cell is running, an asterik `[*]` should appear to the left of the 
 
 </exercise>
 
-<exercise id="2" title="Get help">
+<exercise id="3" title="Get help">
 
 
 ### Email Support
 
-Email us at hackathon@callysto.ca if you have any questions and we will respond during office hours.
+Email us at hackathon@callysto.ca if you have any questions and we will respond during regular business hours -- Monday to Thursday from 9:00 am to 4:00 pm Mountain Time.
 
 
 </exercise>
