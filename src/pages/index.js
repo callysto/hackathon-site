@@ -22,7 +22,7 @@ export default ({ data }) => {
                 <h1 className={classes.subtitle}> Are You Ready to Hack Data? </h1>
                 <div className={classes.introduction}>
                 <p>
-                This site will help you participate in the Callysto hackathon called "Sustaining Life on Mars". <span role="img" aria-label="rocket">🚀</span>   
+                This site will help you participate in the Callysto hackathon, "Sustaining Life on Mars". <span role="img" aria-label="rocket">🚀</span>   
                 </p>
                 </div>
                 <div className={classes.video}>
