@@ -27,6 +27,7 @@ export default ({ data }) => {
                 </div>
                 <div className={classes.video}>
 	                    <iframe 
+                            style="width: 75%;"
                             src="https://www.youtube.com/embed/K9g8qIyUMzE"
                             frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope;"
